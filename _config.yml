@@ -38,7 +38,7 @@ navigation:
     url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus:
+disqus: foo
 
 # Colors
 accent_color: '#2d72d9'
