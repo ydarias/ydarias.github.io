@@ -4,7 +4,7 @@ title: "Cómo gestiono el conocimiento"
 description: "Estamos bombardeados por información constantemente, por eso es esencial gestionar esta para detectar cuál es importante y cuál no."
 date: 2020-09-05
 feature_image: images/gestion-conocimiento.png
-tags: [learning, personal-management]
+tags: [learning, personal-management, spanish]
 ---
 
 Hace unos días una amiga me preguntó cómo gestionaba el conocimiento que iba adquiriendo. Dónde lo "guardo", cómo lo "organizo". Y es una muy buena pregunta.

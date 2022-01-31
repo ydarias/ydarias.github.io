@@ -4,7 +4,7 @@ title: "Una nueva aventura"
 description: ""
 date: 2018-02-11
 feature_image: images/fon-team.jpg
-tags: [learning, personal-management]
+tags: [learning, personal-management, spanish]
 ---
 
 El viernes pasado fue mi último día como empleado de Fon, al menos por el momento. Hace unas semanas me llegó una oferta que finalmente no pude rechazar, pero me gustaría explicarme a mi mismo qué me ha llevado a aceptarla, qué espero en el futuro y qué me llevo de mi experiencia en Fon.
