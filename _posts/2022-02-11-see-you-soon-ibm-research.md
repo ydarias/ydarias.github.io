@@ -2,7 +2,7 @@
 layout: post
 title: "See you soon IBM Research"
 description: "After 4 nice years at IBM Research, it is time to move, but first let me tell you how it was"
-date: 2022-02-11
+date: 2022-02-08
 feature_image: images/yeray-at-yorktown.jpg
 tags: [work, english]
 ---
@@ -31,7 +31,7 @@ I always had the intention to visit the United States, but I was always busy, or
 
 [Axel](https://twitter.com/axelhzf) and I traveled there to do some consultancy work. During my time there I've discussed with my boss about the next project. Some promising technology in development by the lab at Haifa.
 
-{% include image_full.html imageurl="/images/not-rented-car.jpg" title="Pretty muscle car" caption="This is NOT the car we rented" %}
+{% include image_caption.html imageurl="/images/not-rented-car.jpg" title="Pretty muscle car" caption="This is NOT the car we rented" %}
 
 I "won" a 21 days visit to Tel-Aviv. There, I helped the team to build a web interface allowing them to show [Debater](https://research.ibm.com/interactive/project-debater/) to the great public. On my side, it was a simple web application that was able to take people's positions on a certain topic. Then we used that data to feed Debater and generate a new speech on the given topic. Speech by crowd :-)
 
@@ -39,12 +39,24 @@ From a technology point of view, I didn't learn a lot, I was pretty conservative
 
 ### Team building at NYC!!!
 
-In January 2019 we had a team-building at Yorktown's lab, and we took advantage to pass some days in NYC as a team. It was a great experience where we learned a little bit more about each other. Something that is really important in remote teams.
+TBD - Sometimes, at a remote company, people are comments at a pull request, or blocks of code. Until you know them face to face it is hard to empatize with them, because it is an impersonal relationship.
+
+This is why team building events are so important
+
+TBD - In January 2019 we had a team-building at Yorktown's lab, and we took advantage to pass some days in NYC as a team. It was a great experience where we learned a little bit more about each other. Something that is really important in remote teams.
 
 ### Sometimes things don't go as planned
 
+TBD - After finishing the collaboration at project Debater, my next step was to help the team behind Kui. A visual tool to manage Kubernetes clusters, a la Lens. 
+
 ## How to win a travel to Zurich?
 
+TBD - Integration of QC anc QX jobs at the same DB collection gets you a travel to Zurich as a prize.
+
 ## Finally at home
+
+After some collaborations, the time to join 100% to the Quantum team arrived.
+
+TBD - Being Jiminy Cricket ...
 
 ## Time to leave parents house
