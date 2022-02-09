@@ -11,7 +11,7 @@ Four years ago, I joined [IBM Research](https://research.ibm.com/). I arrived wi
 
 But today, it comes to an end. This is my last day at IBM Research and [IBM Quantum](https://quantum-computing.ibm.com/), not only I wasn't fired but I can say they were four good years. I would like to write down all the amazing successes and finally reveal which will be my next adventure.
 
-**Disclaimer**: Sorry if I don't give too much detail, some projects are under strict privacy rules.
+**Disclaimer**: Sorry if I don't give too much detail, some projects are under strict confidentiality.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ My first stop at IBM Research was ETX. And what the hell is ETX you say? The tea
 
 After some first days of not being sure where I fitted in, I started a new proof of concept for IBM Quantum. We built a Visual Studio extension, [Qiskit Studio](https://github.com/qiskit-community/qiskit-vscode), to help people writing quantum programs.
 
-{% include image_caption.html imageurl="/images/tried-to-learn-quantum.jpg" title="Trying to learn quantum computation" caption="I swear I tried to lear quantum computing (-:" %}
+{% include image_caption.html imageurl="/images/tried-to-learn-quantum.jpg" title="Trying to learn quantum computation" caption="I swear I tried to learn quantum computing (-:" %}
 
 It was an interesting landing into the company, but we had to put the project in the fridge. Research environments have a volatile roadmap. Most of the time you have to test a hypothesis, and some proof of concepts are just discarded.  I had the opportunity to learn a bit more about ANTLR and how to develop a Visual Studio extension though.
 
@@ -92,7 +92,7 @@ And what was your role, you would ask? Software developer, of course, is the rig
 
 I would love to share all the amazing things that we did or some of my diagrams. But all work related to IBM Quantum is confidential, and I cannot share anything.
 
-Some high detail of the things that I collaborated with were:
+Some high-level detail of the things that I collaborated with:
 
 * Refactoring code from old Loopback 3 legacy codebase to a new architecture with Nest.js.
 * Designing the foundations of a new modular architecture.
@@ -105,13 +105,13 @@ Some people would say that I had an architect role. And others would say that we
 
 I wouldn't say that we had a big ball of mud, but we had very different shapes depending on the sub-team and project. In that case, I would say that I worked hard to unify some of them and create a foundation of good practices.
 
-But I don't like to call myself an architect, since architecture is a team responsibility.
+But I don't like to call myself an architect, since architecture is a team's responsibility.
 
 Now, looking back, I think that my role there was being Jiminy Cricket.
 
 {% include image_caption.html imageurl="/images/jiminy-cricket.jpg" title="Technical Conscience" caption="Always wanted to act as the technical conscience of the team ... I get it, I was a little pain in the *** sometimes :-D" %}
 
-What the hell is the Jiminy Cricket role? In software development, someone who tells the truth, and prefers doing the right thing right instead of hacks. It is not about changing everything that you find. It is about prioritizing the things that are problematic and creating a path of continuous improvement. Making small changes each day to have a large change over the years.
+What the hell is the Jiminy Cricket role? In software development, **someone who tells the truth, and prefers doing the right thing right instead of hacks**. It is not about changing everything that you find. It is about prioritizing the things that are problematic and creating a path of continuous improvement. Making small changes each day to have a large change over the years.
 
 I like to think that I was glue, as Tanya Reilly would say.
 
@@ -119,8 +119,12 @@ I like to think that I was glue, as Tanya Reilly would say.
 
 ## Time to leave parents house
 
-First of all, I want to be grateful with [Paco](https://twitter.com/pacomartinfdez) and [Isma](https://twitter.com/ismaelfaro) who gave me this opportunity. I hope I left the place better than I found it.
+I want to be grateful with [Paco](https://twitter.com/pacomartinfdez) and [Isma](https://twitter.com/ismaelfaro) who gave me this opportunity. I hope I left the place better than I found it.
 
 But ... after these incredible four years, it is time to accept a new challenge.
 
 So, which is your next adventure? *drumroll*
+
+[Manfred](https://www.getmanfred.com/)
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">SE QUEDA <a href="https://t.co/WZNqgiOcVV">pic.twitter.com/WZNqgiOcVV</a></p>&mdash; David Bonilla (@david_bonilla) <a href="https://twitter.com/david_bonilla/status/1171018283048415232?ref_src=twsrc%5Etfw">September 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
