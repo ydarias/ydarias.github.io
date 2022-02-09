@@ -2,7 +2,7 @@
 layout: post
 title: "See you soon IBM Research"
 description: "After 4 nice years at IBM Research, it is time to move, but first let me tell you how it was"
-date: 2022-02-08
+date: 2022-02-09
 feature_image: images/yeray-at-yorktown.jpg
 tags: [work, english]
 ---
@@ -65,7 +65,7 @@ The main two reasons why it didn't work were:
 * We had no clear alignment on the desired output. We thought that the actual product was the Kubernetes tool, while the research team wanted to create something more ambitious. There was a deadlock since there was no one to make the final decision.
 * I am not so good at confrontation. My modus operandi as a tech lead is leading by example. When I think a tool, framework, or practice is better, I create a small spike and show it to the team. If I believe TDD works it is because I try to use it daily. But in product development, I cannot create a full product to show something. You need to create a hypothesis and confirm it, step by step.
 
-Don't get me wrong. The project continued successfully, it was the collaboration that didn't work. That is fine. You cannot cook an omelet without breaking some eggs.
+Don't get me wrong. The project continued successfully, it was the collaboration that didn't work. **That is fine**. **You cannot cook an omelet without breaking some eggs**.
 
 ## How to win a travel to Zurich?
 
@@ -80,14 +80,47 @@ Nobody complained, so we did a good job, I guess.
 
 {% include image_caption.html imageurl="/images/quantum-team-zurich.jpg" title="IBM Quantum developers" caption="Building something like IBM Quantum Experience requires the effort from multiple teams and a lot of people, here a few of them" %}
 
-One amazing thing about IBM Quantum, and IBM Research, is that they do not hesitate in rewarding people when they do a good job. That's the reason why some members of the IBM Quantum team traveled to the next Qiskit Camp in Zurich. And I was lucky enough to be one of them.
+**One amazing thing about IBM Quantum, and IBM Research, is that they do not hesitate in rewarding people when they do a good job**. That's the reason why some members of the IBM Quantum team traveled to the next Qiskit Camp in Zurich. And I was lucky enough to be one of them.
 
 {% include image_caption.html imageurl="/images/bedroom-in-murren.jpg" title="My bedroom for a few nights" caption="I am yet in love with the cozy bedroom that I had for a few days" %}
 
 ## Finally at home
 
-After some collaborations, the time to join 100% to the Quantum team arrived.
+After some back and forth between IBM Quantum and ETX, it was clear that I was more useful with the Quantum team. Also, it was the place where I was more comfortable. So I stayed there for two years until now.
 
-TBD - Being Jiminy Cricket ...
+And what was your role, you would ask? Software developer, of course, is the right answer. I don't like fancy titles, and I love writing code. So I started working at the API and microservices team.
+
+I would love to share all the amazing things that we did or some of my diagrams. But all work related to IBM Quantum is confidential, and I cannot share anything.
+
+Some high detail of the things that I collaborated with were:
+
+* Refactoring code from old Loopback 3 legacy codebase to a new architecture with Nest.js.
+* Designing the foundations of a new modular architecture.
+* Reducing the workload at the DB.
+* Creating new projects and proofs of concepts.
+* Developing at Qiskit Runtime, the new execution pipeline for Quantum programs.
+* Improving the learning process and onboarding.
+
+Some people would say that I had an architect role. And others would say that we had no clear architecture. As [Gregor Hohpe said](https://architectelevator.com/architecture/organizing-architecture/), you have architecture, one by design, or a big ball of mud.
+
+I wouldn't say that we had a big ball of mud, but we had very different shapes depending on the sub-team and project. In that case, I would say that I worked hard to unify some of them and create a foundation of good practices.
+
+But I don't like to call myself an architect, since architecture is a team responsibility.
+
+Now, looking back, I think that my role there was being Jiminy Cricket.
+
+{% include image_caption.html imageurl="/images/jiminy-cricket.jpg" title="Technical Conscience" caption="Always wanted to act as the technical conscience of the team ... I get it, I was a little pain in the *** sometimes :-D" %}
+
+What the hell is the Jiminy Cricket role? In software development, someone who tells the truth, and prefers doing the right thing right instead of hacks. It is not about changing everything that you find. It is about prioritizing the things that are problematic and creating a path of continuous improvement. Making small changes each day to have a large change over the years.
+
+I like to think that I was glue, as Tanya Reilly would say.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KClAPipnKqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Time to leave parents house
+
+First of all, I want to be grateful with [Paco](https://twitter.com/pacomartinfdez) and [Isma](https://twitter.com/ismaelfaro) who gave me this opportunity. I hope I left the place better than I found it.
+
+But ... after these incredible four years, it is time to accept a new challenge.
+
+So, which is your next adventure? *drumroll*
