@@ -2,7 +2,7 @@
 layout: post
 title: "See you soon IBM Research"
 description: "After 4 nice years at IBM Research, it is time to move, but first let me tell you how it was"
-date: 2022-02-09
+date: 2022-02-11
 feature_image: images/yeray-at-yorktown.jpg
 tags: [work, english]
 ---
