@@ -47,7 +47,6 @@ footer:
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-target-blank
 
 # http://jekyllrb.com/docs/pagination/
