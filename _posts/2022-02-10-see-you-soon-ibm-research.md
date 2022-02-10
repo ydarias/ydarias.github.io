@@ -127,4 +127,6 @@ So, which is your next adventure? *drumroll*
 
 [Manfred](https://www.getmanfred.com/)
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">SE QUEDA <a href="https://t.co/WZNqgiOcVV">pic.twitter.com/WZNqgiOcVV</a></p>&mdash; David Bonilla (@david_bonilla) <a href="https://twitter.com/david_bonilla/status/1171018283048415232?ref_src=twsrc%5Etfw">September 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/david_bonilla/status/1171018283048415232 maxwidth=500 limit=5 %}
+</div>
