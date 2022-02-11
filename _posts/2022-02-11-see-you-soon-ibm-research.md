@@ -63,7 +63,7 @@ This was the first (and last) time that I’ve worked as a project manager. I di
 
 The main two reasons why it didn't work were:
 * We had no clear alignment on the desired output. We thought that the actual product was the Kubernetes tool, while the research team wanted to create something more ambitious. We had a deadlock since there was no one to make the final decision.
-* I am not so good at confrontation. My modus operandi as a tech lead is leading by example. When I think a tool, framework, or practice is better, I create a small spike and show it to the team. If I believe TDD works it is because I try to use it daily. But in product development, I cannot create a full product to show something. You need to create a hypothesis and confirm it, step by step.
+* I am not so good at confrontation. My modus operandi as a tech lead is leading by example. When I think a tool, framework, or practice is better, I create a small spike and show it to the team. If I believe TDD works I just try to use it daily. But in product development, I cannot create a full product to show something. You need to create a hypothesis and confirm it, step by step.
 
 Don't get me wrong. The project continued successfully, it was the collaboration that didn't work. **That is fine**. **You cannot cook an omelet without breaking some eggs**.
 
