@@ -62,7 +62,7 @@ But time passed and the next promising project appeared. So I finished my tasks 
 This was the first (and last) time that I’ve worked as a project manager. I discovered at this project that I am a terrible project manager. My experience as a tech lead, in the past, was good. But when it comes to handling people with controversial points of view, and at the same power level, my results are not so good.
 
 The main two reasons why it didn't work were:
-* We had no clear alignment on the desired output. We thought that the actual product was the Kubernetes tool, while the research team wanted to create something more ambitious. There was a deadlock since there was no one to make the final decision.
+* We had no clear alignment on the desired output. We thought that the actual product was the Kubernetes tool, while the research team wanted to create something more ambitious. We had a deadlock since there was no one to make the final decision.
 * I am not so good at confrontation. My modus operandi as a tech lead is leading by example. When I think a tool, framework, or practice is better, I create a small spike and show it to the team. If I believe TDD works it is because I try to use it daily. But in product development, I cannot create a full product to show something. You need to create a hypothesis and confirm it, step by step.
 
 Don't get me wrong. The project continued successfully, it was the collaboration that didn't work. **That is fine**. **You cannot cook an omelet without breaking some eggs**.
