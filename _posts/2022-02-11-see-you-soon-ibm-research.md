@@ -86,7 +86,7 @@ Nobody complained, so we did a good job, I guess.
 
 ## Finally at home
 
-After some back and forth between IBM Quantum and ETX, it was clear that I was more useful with the Quantum team. Also, it was the place where I was more comfortable. So I stayed there for two years until now.
+After some back and forth between IBM Quantum and ETX, it was clear that I was more useful with the Quantum team. Also, it was the place where I was more comfortable. So I stayed there for two and a half years until now.
 
 And what was your role, you would ask? Software developer, of course, is the right answer. I don't like fancy titles, and I love writing code. So I started working at the API and microservices team.
 
