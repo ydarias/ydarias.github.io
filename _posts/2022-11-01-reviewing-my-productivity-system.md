@@ -9,6 +9,8 @@ tags: [personal-management, productivity, work, english]
 
 A few days ago, I was watching [this video](https://www.youtube.com/watch?v=T6hmdrsLQj8) from Ali Abdaal where he talks about how to build a productivity system. His ideas reminded me of an old post of mine, and I immediately thought it was time to review my productivity system again.
 
+<!--more-->
+
 # What is a productivity system?
 
 Before jumping into the actual process it is worth to define what a productivity system is. Noisli’s blog defines a productivity system as “nothing more than a set of procedures according to which something is done”.
