@@ -119,7 +119,7 @@ public class InMemoryIngredientsRepository implements ForPersistingIngredients {
 }
 ```
 
-But there are other cases. Imaging that you use a third party service that you cannot (or you don't want) invoke in local executions, changing the injected object during the bootstraping by a mock could simplify things a lot. This allows for faster, but safe enough, developments where all business code is actually tested.
+But there are other cases. Imagine that you use a third party service that you cannot (or you don't want) invoke in local executions, changing the injected object during the bootstraping, by a mock, could simplify things a lot. This allows for faster, but safe enough, developments where all business code is actually tested.
 
 ## There is always an interface
 
@@ -129,3 +129,7 @@ The important point in all this discussion is that the interfaces are always the
 
 * Photo from <a href="https://unsplash.com/es/@altumcode?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">AltumCode</a> in <a href="https://unsplash.com/es/fotos/encendio-la-computadora-portatil-dC6Pb2JdAqs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 * Some reference code at [My Recipes Github repository](https://github.com/ydarias/my-recipes)
+
+## Changelog
+
+2024-10-03: Fixed typos
