@@ -25,7 +25,7 @@ There are a number of elements, but for this article we will focus on the ports:
 
 In a few words, when I implement a system with Hexagonal Architecture in Java, I use explicit interfaces for the driven ports, but not for the driving ports. And now we will go deeper into the why. 
 
-## There is always an interface
+## My usual way of working
 
 Let's take a basic example, a system that must be able to get a list of ingredients and introduce new ones. If using Hexagonal Architecture I would usually draw a diagram like the following one.
 
@@ -120,6 +120,10 @@ public class InMemoryIngredientsRepository implements ForPersistingIngredients {
 ```
 
 But there are other cases. Imaging that you use a third party service that you cannot (or you don't want) invoke in local executions, changing the injected object during the bootstraping by a mock could simplify things a lot. This allows for faster, but safe enough, developments where all business code is actually tested.
+
+## There is always an interface
+
+The important point in all this discussion is that the interfaces are always there, no matter if you define the explicit ones or not. Having an explicit one would make it easier to detect if the interface is being changed in an undesired way, but in some cases it is just boilerplate that adds nearly no value. Joining your team and deciding the way you want to work is the good way to go here, but at least make it an informed decision.
 
 ## Misc and references
 
