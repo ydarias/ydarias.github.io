@@ -29,7 +29,7 @@ Below, an abstract of the patterns described in larger detail in the book.
 
 Before jumping into the patterns, let's talk about the anatomy of those big failures a lot of people suffered in their professional life at some point. Failures that create a chain reaction that takes down an entire system.
 
-{% include image_caption.html imageurl="/images/release-it/anatomy-of-global-failure.jpeg" title="Anatomy of a global failure" caption="Anatomy of a global failure" %}
+{% include image_caption.html imageurl="/images/release-it/release-it-anatomy-of-global-failure.jpeg" title="Anatomy of a global failure" caption="Anatomy of a global failure" %}
 
 Most of the time the problems are related to unavailable systems, network conditions, let's say at integration points. The following patterns don't solve the problem completely, but reduce the impact.
 
