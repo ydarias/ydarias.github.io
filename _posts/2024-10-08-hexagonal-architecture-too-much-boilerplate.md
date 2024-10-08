@@ -111,7 +111,14 @@ Because as long as the `Profile` has at least all the attributes from `ProfileRe
 
 What I did at other teams to prevent leaking information, but avoid writing the mappers, is to create a set of integrations tests checking against the actual REST endpoints. But it is tricky because depending on the model definitions and the data you preload for the test there could be cases you won't detect. So my first option is always to create explicit mappers.
 
+## Extra ball
+
+If the boilerplate really gets you mad, but you want to have the explicit mapping, you have options like [MapStruct](https://mapstruct.org/) in Java. Other languages have similar solutions.
+
 ## Misc and references
 
 * Photo from <a href="https://unsplash.com/es/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kelly Sikkema</a> in <a href="https://unsplash.com/es/fotos/letras-de-personas-en-papel-de-calco-con-lapiz-mecanico-o2TRWThve_I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
+
+## Changelog
+
+* 2024-10-08: Added the extra ball section
