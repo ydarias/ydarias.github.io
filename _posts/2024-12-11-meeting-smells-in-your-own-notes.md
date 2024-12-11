@@ -4,7 +4,7 @@ title: "Meeting smells in your own notes"
 description: "You can use your own meeting notes to discover smells in the way your company make the meetings."
 date: 2024-12-11
 feature_image: images/feature/writing.jpg
-tags: [programming, software-architecture, design]
+tags: [meetings, management]
 ---
 
 Some meetings are bad, others are useless, some of them are helpful. One thing that I discovered over time is that if you have a good template for notes, you can use them to take the temperature and discover smells.
