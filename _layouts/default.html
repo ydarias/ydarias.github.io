@@ -14,6 +14,22 @@
   <!-- Styles -->
   <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i%7CNoto+Serif:400,400i,700,700i&display=swap" rel="stylesheet">
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
+
+  {% if page.layout == "post" %}
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+  <meta property="og:image" content="{{ site.url }}/{{ page.feature_image }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+  <meta name="twitter:image" content="{{ site.url }}/{{ page.feature_image }}">
+  <meta name="twitter:site" content="@ydarias">
+  <meta name="twitter:creator" content="@ydarias">
+  {% endif %}
 </head>
 <body>
 
