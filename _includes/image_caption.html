@@ -1,5 +1,7 @@
 <figure class="image-card width-wide caption">
-  <img src="{{ include.imageurl }}" alt="{{ include.title }}" />
+  <a href="{{ include.imageurl }}" target="_blank">
+    <img src="{{ include.imageurl }}" alt="{{ include.title }}" />
+  </a>
   {% if include.caption %}
   <figcaption class="caption-text">{{ include.caption }}</figcaption>
   {% endif %}
